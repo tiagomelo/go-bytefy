@@ -30,7 +30,7 @@ export PATH="\$GOPATH/bin:\$PATH"
 ### basic usage
 
 ```
-go run cmd/gobytefy/gobytefy.go --package assets --file img.png --output assets/logo.go --id LogoPng
+gobytefy --package assets --file img.png --output assets/logo.go --id LogoPng
 ````
 
 This generates a Go file `assets/logo.go` with the following structure:
