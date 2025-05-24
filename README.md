@@ -1,6 +1,6 @@
 # go-bytefy
 
-[![unit tests](https://github.com/tiagomelo/go-bytefy/actions/workflows/unit-tests.yml/badge.svg?branch=main)](https://github.com/tiagomelo/go-bytefy/actions/workflows/test.yml)
+[![unit tests](https://github.com/tiagomelo/go-bytefy/actions/workflows/unit-tests.yml/badge.svg?branch=main)](https://github.com/tiagomelo/go-bytefy/actions/workflows/unit-tests.yml)
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-bytefy.svg)](https://pkg.go.dev/github.com/tiagomelo/go-bytefy)
 
