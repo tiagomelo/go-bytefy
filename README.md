@@ -1,5 +1,7 @@
 # go-bytefy
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/tiagomelo/go-bytefy.svg)](https://pkg.go.dev/github.com/tiagomelo/go-bytefy)
+
 ![logo](go-bytefy-logo.png)
 
 A simple utility to encode a file (or any other data) into a Go byte slice.  
