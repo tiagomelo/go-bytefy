@@ -24,7 +24,7 @@ go env | grep GOPATH
 To run `gobytefy` from any terminal, ensure your `$GOPATH/bin` is on your `$PATH`:
 
 ```
-export PATH="\$GOPATH/bin:\$PATH"
+export PATH="$GOPATH/bin:$PATH"
 ```
 
 ### basic usage
