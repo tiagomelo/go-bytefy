@@ -1,0 +1,5 @@
+assets
+coverage.out
+*.png
+!go-bytefy-logo.png
+TODO
